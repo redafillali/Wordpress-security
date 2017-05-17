@@ -11,8 +11,8 @@ All contributions must be made via the `development` branch.  This keeps the pro
 
 ## Have a question or found a bug (compliments work too)?
 
-Tweet me on Twitter - [@nraboy](https://www.twitter.com/redafillali)
+Tweet me on Twitter - [@RedaELFiLLaLi](https://twitter.com/RedaELFiLLaLi)
 
 ## Resources
 
-
+Wordpress - https://fr.wordpress.org/
